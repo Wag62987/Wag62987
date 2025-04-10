@@ -7,14 +7,7 @@
     src="https://komarev.com/ghpvc/?username=wag62987&label=Profile%20views&color=0e75b6&style=flat" 
     alt="wag62987 profile views" 
     style="width: 250px; height: auto;" />
-</p><h3 align="center">🏆 GitHub Trophies</h3><p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=wag62987&theme=algolia&margin-w=15&margin-h=15&row=2&column=3" 
-      alt="GitHub Trophies" 
-      style="height: 400px; max-width: 100%; width: auto;" />
-  </a>
-</p>
+
 ---
 
 🌱 Currently diving deep into Spring Boot and system-level architecture
