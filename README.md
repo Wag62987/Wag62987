@@ -1,21 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mayur Waghade</h1>
-
-<h3 align="center">💡 Crafting Code, Building Dreams</h3>
+<h1 align="center">Hi 👋, I'm Mayur Waghade</h1><h3 align="center">💡 Crafting Code, Building Dreams</h3>
 <h3 align="center">⚙️ Full-Stack Developer | Tech Explorer</h3>
 <h3 align="center">📚 Lifelong Learner | System Designer</h3>
 <h3 align="center">🧠 AI • ML • Blockchain Enthusiast</h3>
-<h3 align="center">🌍 Turning Coffee into Code | 🛠️ Engineering Ideas into Reality</h3>
-
-<p align="center">
+<h3 align="center">🌍 Turning Coffee into Code | 🛠️ Engineering Ideas into Reality</h3><p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=wag62987&label=Profile%20views&color=0e75b6&style=flat" 
     alt="wag62987 profile views" 
     style="width: 250px; height: auto;" />
-</p>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
+</p><h3 align="center">🏆 GitHub Trophies</h3><p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img 
       src="https://github-profile-trophy.vercel.app/?username=wag62987&theme=algolia&margin-w=15&margin-h=15&row=2&column=3" 
@@ -23,12 +15,15 @@
       style="height: 400px; max-width: 100%; width: auto;" />
   </a>
 </p>
-
 ---
 
-- 🌱 Currently diving deep into **Spring Boot** and system-level architecture  
-- 📫 Reach me on [Instagram](https://www.instagram.com/blaze_wag62987?igsh=MXQxMHR6bGlnMjAwNQ==)  
-- ⚡ **Fun fact:** My most productive hours start *after midnight*, powered by *two cups of chai and a playlist of lo-fi beats.*
+🌱 Currently diving deep into Spring Boot and system-level architecture
+
+📫 Reach me on Instagram
+
+⚡ Fun fact: My most productive hours start after midnight, powered by two cups of chai and a playlist of lo-fi beats.
+
+
 
 ---
 
@@ -44,14 +39,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayurwaghade" height="30" width="40" />
   </a>
 </p>
-
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 8px;" />
-  </a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
@@ -64,17 +56,8 @@
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://unrealengine.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Unreal_Engine_Logo_White.png" alt="unreal" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 8px;" />
-  </a>
+  <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
 </p>
-
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wag62987&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wag62987&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=00ffcc&icon_color=00ffcc" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wag62987&theme=black-ice&hide_border=true" alt="GitHub Streak" /></p>
+<h3 align="left">📊 GitHub Stats:</h3><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wag62987&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="Top Langs" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wag62987&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=00ffcc&icon_color=00ffcc" alt="GitHub Stats" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wag62987&theme=black-ice&hide_border=true" alt="GitHub Streak" /></p>
