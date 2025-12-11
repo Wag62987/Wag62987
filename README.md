@@ -1,20 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mayur Waghade</h1><h3 align="center">💡 Crafting Code, Building Dreams</h3>
-<h3 align="center">⚙️ Full-Stack Developer | Tech Explorer</h3>
-<h3 align="center">📚 Lifelong Learner | System Designer</h3>
-<h3 align="center">🧠 AI • ML • Blockchain Enthusiast</h3>
-<h3 align="center">🌍 Turning Coffee into Code | 🛠️ Engineering Ideas into Reality</h3><p align="center">
+<h1 align="center">Hi, I'm Mayur Waghade</h1>
+<h3 align="center">Full-Stack Developer | AI & Systems Engineering Enthusiast</h3>
+
+ <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=wag62987&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="wag62987 profile views" 
-    style="width: 250px; height: auto;" />
+    alt="wag62987 profile views"
+    style="width: 250px; height: auto;"
+  />
+</p>
+
 
 ---
+<h3>About Me</h3>
 
-🌱 Currently diving deep into Spring Boot and system-level architecture
-
-📫 Reach me on Instagram
-
-⚡ Fun fact: My most productive hours start after midnight, powered by two cups of chai and a playlist of lo-fi beats.
+• Focused on building scalable applications and system-level architectures  
+• Exploring AI, Machine Learning, and Blockchain  
+• Passionate about clean code, performance, and engineering clarity  
+• Constantly learning and improving through real-world projects  
 
 
 
@@ -102,4 +104,26 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wag62987&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="Top Langs" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wag62987&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&title_color=00ffcc&icon_color=00ffcc" alt="GitHub Stats" /></p><p><img align="center" src="https://streak-stats.demolab.com/?user=wag62987&theme=black-ice&hide_border=true" alt="GitHub Streak" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="left">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=wag62987&show_icons=true&theme=dark&hide_border=false" 
+       height="170"
+  />
+</p>
+
+<p align="left">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=wag62987&theme=dark&hide_border=false" 
+       height="170"
+  />
+</p>
+
+<p align="left">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wag62987&layout=compact&theme=dark&hide_border=false" 
+       height="170"
+  />
+</p>
+
