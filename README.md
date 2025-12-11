@@ -105,25 +105,18 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=wag62987&show_icons=true&theme=dark&hide_border=false" 
-       height="170"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wag62987&theme=github_dark" />
 </p>
 
-<p align="left">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=wag62987&theme=dark&hide_border=false" 
-       height="170"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wag62987&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wag62987&theme=github_dark" />
 </p>
 
-<p align="left">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wag62987&layout=compact&theme=dark&hide_border=false" 
-       height="170"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wag62987&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wag62987&theme=github_dark" />
 </p>
+
 
