@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wag62987&theme=github_dark" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wag62987&layout=compact&theme=github_dark&langs_count=20" />
 </p>
 
 <p align="center">
