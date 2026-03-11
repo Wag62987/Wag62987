@@ -110,9 +110,8 @@
 </p>
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wag62987&layout=compact&theme=github_dark&langs_count=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wag62987&layout=donut&theme=github_dark" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wag62987&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wag62987&theme=github_dark" />
